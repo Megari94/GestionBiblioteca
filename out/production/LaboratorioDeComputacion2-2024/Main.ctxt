@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=gestor\ scanner
+comment10.target=void\ solicitarPrestamo(GestorBiblioteca,\ java.util.Scanner)
+comment11.params=gestor\ scanner
+comment11.target=void\ devolverLibro(GestorBiblioteca,\ java.util.Scanner)
+comment12.params=gestor
+comment12.target=void\ mostrarPrestamosActivos(GestorBiblioteca)
+comment2.params=gestor\ scanner
+comment2.target=void\ agregarUsuario(GestorBiblioteca,\ java.util.Scanner)
+comment3.params=gestor\ scanner
+comment3.target=void\ buscarUsuario(GestorBiblioteca,\ java.util.Scanner)
+comment4.params=gestor\ scanner
+comment4.target=void\ actualizarUsuario(GestorBiblioteca,\ java.util.Scanner)
+comment5.params=gestor\ scanner
+comment5.target=void\ eliminarUsuario(GestorBiblioteca,\ java.util.Scanner)
+comment6.params=gestor\ scanner
+comment6.target=void\ agregarLibro(GestorBiblioteca,\ java.util.Scanner)
+comment7.params=gestor\ scanner
+comment7.target=void\ buscarLibro(GestorBiblioteca,\ java.util.Scanner)
+comment8.params=gestor\ scanner
+comment8.target=void\ actualizarLibro(GestorBiblioteca,\ java.util.Scanner)
+comment9.params=gestor\ scanner
+comment9.target=void\ eliminarLibro(GestorBiblioteca,\ java.util.Scanner)
+numComments=13

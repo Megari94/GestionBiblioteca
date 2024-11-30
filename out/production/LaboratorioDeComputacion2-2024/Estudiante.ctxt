@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=
+comment1.target=java.lang.String\ getLegajo()
+comment2.params=legajo
+comment2.target=void\ setLegajo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment4.params=carrera
+comment4.target=void\ setCarrera(java.lang.String)
+comment5.params=
+comment5.target=Estudiante()
+comment6.params=id\ nombre\ apellido\ dni\ direccion\ celular\ email\ legajo\ carrera
+comment6.target=Estudiante(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

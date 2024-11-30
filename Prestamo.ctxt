@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Prestamo
+comment1.params=isbn\ id
+comment1.target=void\ solicitarPrestamo(java.lang.String,\ java.lang.String)
+comment2.params=isbn
+comment2.target=void\ devolverLibro(java.lang.String)
+comment3.params=
+comment3.target=void\ mostrarPrestamos()
+numComments=4
